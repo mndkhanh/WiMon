@@ -1,2 +1,2 @@
 # WiMon
-Wireless Patient Monirotring System Base on ESP32 &amp; Firebase
+Wireless Patient Monitoring System Based on ESP32 &amp; Firebase
